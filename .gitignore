@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+.env
+.venv/
+venv/
+docs/
+tests/
+test-reports/
+.tmp/
+**/__pycache__/
+*.py[cod]
+
+*.pyc
+*.pyd
+*.pyo
+__pycache__/
